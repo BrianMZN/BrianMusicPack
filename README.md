@@ -4,3 +4,6 @@ This is a resourcepack for Minecraft Java Edition that changes the standard musi
 
 
 **The music in this resourcepack is not owned by me nor made by me.**
+
+**Showcase**
+Coming Soon
